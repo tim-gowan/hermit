@@ -34,7 +34,7 @@ require (
 	github.com/ulikunitz/xz v0.5.16
 	github.com/willabides/kongplete v0.4.0
 	github.com/willdonnelly/passwd v0.0.0-20141013001024-7935dab3074c
-	golang.org/x/net v0.59.0
+	golang.org/x/net v0.60.0
 	golang.org/x/sync v0.23.0
 	golang.org/x/sys v0.48.0
 	golang.org/x/term v0.46.0
