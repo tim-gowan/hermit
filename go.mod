@@ -34,10 +34,10 @@ require (
 	github.com/ulikunitz/xz v0.5.16
 	github.com/willabides/kongplete v0.4.0
 	github.com/willdonnelly/passwd v0.0.0-20141013001024-7935dab3074c
-	golang.org/x/net v0.59.0
-	golang.org/x/sync v0.23.0
-	golang.org/x/sys v0.48.0
-	golang.org/x/term v0.46.0
+	golang.org/x/net v0.62.0
+	golang.org/x/sync v0.24.0
+	golang.org/x/sys v0.49.0
+	golang.org/x/term v0.47.0
 	howett.net/plist v1.0.1
 	mvdan.cc/sh v2.6.4+incompatible
 )
@@ -57,6 +57,6 @@ require (
 	github.com/saracen/go7z-fixtures v0.0.0-20190623165746-aa6b8fba1d2f // indirect
 	github.com/saracen/solidblock v0.0.0-20190426153529-45df20abab6f // indirect
 	github.com/xi2/xz v0.0.0-20171230120015-48954b6210f8 // indirect
-	golang.org/x/crypto v0.57.0 // indirect
-	golang.org/x/text v0.42.0 // indirect
+	golang.org/x/crypto v0.58.0 // indirect
+	golang.org/x/text v0.43.0 // indirect
 )
